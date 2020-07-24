@@ -17,7 +17,7 @@ navbar-links:
     - 백준 온라인 저지: "BOJ"
   Web Development:
     - Spring: "Spring"
-    - NodeJS: "NodeJS"
+    - NodeJS: "NodeJS/"
 
 # --- Logo --- #
 
