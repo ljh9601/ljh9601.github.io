@@ -13,11 +13,11 @@ author: Haeng
 
 navbar-links:
   Algorithm: 
-    - 프로그래머스: "/Programmers/"
-    - 백준 온라인 저지: "/BOJ/"
+    - 프로그래머스: "Programmers"
+    - 백준 온라인 저지: "BOJ"
   Web Development:
-    - Spring: "/Spring/"
-    - NodeJS: "/NodeJS/"
+    - Spring: "Spring"
+    - NodeJS: "NodeJS"
 
 # --- Logo --- #
 
