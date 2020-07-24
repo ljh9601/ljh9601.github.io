@@ -2,5 +2,15 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Categories"
+    url: /categories/
+
+  '''
   - title: "Algorithms"
     url: /algorithms/
+  - title: "Spring"
+    url: /spring/
+  - title: NodeJS
+    url: /nodejs/
+  '''
+  
