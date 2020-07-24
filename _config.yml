@@ -12,10 +12,10 @@ author: Haeng
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  알고리즘: 
+  Algorithm: 
     - 프로그래머스: "#"
     - 백준 온라인 저지: "##"
-  웹개발:
+  Web Development:
     - Spring: "###"
     - NodeJS: "####"
 
