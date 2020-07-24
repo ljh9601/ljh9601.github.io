@@ -32,6 +32,26 @@
         </button>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <div class="site-category">
+        <ul class='cat1'>
+          <li><a href="/">Home</a></li>
+          <li><a href="/">알고리즘</a>
+        <ul>
+          <li><a href="/Algorithm/Programmers">프로그래머스</a></li>
+          <li><a href="/Algorithm/BOJ">백준 온라인 저지</a></li>
+        </ul>
+      </li>
+      <li><a href="/">Spring</a>
+      </li>
+      <li><a href="/NodeJS">NodeJS</a>
+      </li>
+    </ul>
+  </div>
     </div>
   </div>
 </div>
+{% if site.head_scripts %}
+  {% for script in site.head_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}
