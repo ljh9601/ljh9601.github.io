@@ -4,6 +4,7 @@ title: 완주하지 못한 선수 with Python3
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [알고리즘, 프로그래머스]
+url: Algorithm/Programmers/완주하지 못한 선수
 comments: true
 ---
 # 완주하지 못한 선수
@@ -23,3 +24,4 @@ comments: true
 따라서 participant와 completion을 알파벳 오름차순, 혹은 내림차순으로 정렬한 다음, 두 리스트를 zip으로 묶어 비교하며 만약 두 원소가 다를 경우 return해주면 된다! 물론 return은 participant의 값으로 해줘야 한다. 
 
 쉬운 문제고, 두 배열을 단지 비교할 수도 있지만, 파이썬 유저라면 zip 함수 써볼 수 있는 좋은 기회라고 생각한다.
+ㄴ
