@@ -4,17 +4,14 @@ title: '프로그래머스'
 permalink: Algorithm/Programmers
 ---
 
+{% include ./layouts.category.html type="page" %}
 <!--
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
 <div id="full-tags-list">
-    {%- assign tag = '프로그래머스' -%}
-    <h2 id="{{- tag -}}" class="linked-section">
-        <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
-    </h2>
+    {%- assign category = page.title -%}
     <div class="post-list">
-        {%- for post in site.tags[tag] -%}
+        {%- for post in site.categories[category] -%}
             <div class="tag-entry">
                 <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
                 <div class="entry-date">
