@@ -40,7 +40,6 @@ def solution(participant, completion):
     return participant[-1]
 ```
 
-
  <br>
  
-[**완주하지 못한 소스 Github에서 보기**]([https://github.com/ljh9601/BOJ-Programmers/blob/master/Programmers/Lv1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py])
+[**완주하지 못한 소스 Github에서 보기**](https://github.com/ljh9601/BOJ-Programmers/blob/master/Programmers/Lv1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.py)
