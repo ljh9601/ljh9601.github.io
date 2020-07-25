@@ -1,7 +1,7 @@
 ---
 layout: page
 title: '프로그래머스'
-permalink: WebDevelopment/Programmers
+permalink: Algorithm/Programmers
 ---
 
 <!--

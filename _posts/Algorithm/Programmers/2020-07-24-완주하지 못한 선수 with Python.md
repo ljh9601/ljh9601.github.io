@@ -4,7 +4,7 @@ title: 완주하지 못한 선수 with Python3
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [알고리즘, 프로그래머스]
-category: Programmers
+category: '프로그래머스'
 comments: true
 ---
 # 완주하지 못한 선수
