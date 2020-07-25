@@ -3,7 +3,6 @@ layout: category
 title: '프로그래머스'
 permalink: Algorithm/Programmers
 ---
-나와랏
 
 <ul class="posts-list">  
   {% assign category = page.category | default: page.title %}
