@@ -7,8 +7,6 @@ comments: true
 ---
 # 완주하지 못한 선수
 
-11
-
 ![](/Users/Janghaeng/Downloads/beautiful-jekyll-master/assets/img/완주하지 못한 선수.png)
 
 이 문제의 프로그래머스 공식 알고리즘 분류는 "해시"이다. 하지만 해시로 풀 필요가 전혀 없는 문제이다. 그 근거는
