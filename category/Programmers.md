@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: category
 title: '프로그래머스'
 permalink: Algorithm/Programmers
 ---
-
-{% include ./layouts.category.html type="page" %}
+나와랏
 <!--
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
