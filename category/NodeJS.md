@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: subcategories
 title: NodeJS
 permalink: webdevelopment/nodejs
 ---
