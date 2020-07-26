@@ -22,11 +22,11 @@ navbar-links:
 # Custom 추가
 subcategories:
   - 프로그래머스: 
-      lv1: "lv1"
-      lv2: "lv2"
-      lv3: "lv3"
-      lv4: "lv4"
-      lv5: "lv5"
+      lv1: "/algorithm/programmers/lv1"
+      lv2: "/algorithm/programmers/lv2"
+      lv3: "/algorithm/programmers/lv3"
+      lv4: "/algorithm/programmers/lv4"
+      lv5: "/algorithm/programmers/lv5"
 
 
 # --- Logo --- #
@@ -215,6 +215,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - node_modules
 
 plugins:
   - jekyll-paginate
