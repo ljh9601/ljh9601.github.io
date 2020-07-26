@@ -2,7 +2,6 @@
 layout: post
 title: (LV1)완주하지 못한 선수 with Python3
 tags: [알고리즘, 프로그래머스]
-category: [algorithm, programmers]
 comments: true
 ---
 # Lv1. 해시 - 완주하지 못한 선수
