@@ -1,7 +1,7 @@
 ---
 layout: category
-title: '프로그래머스'
-permalink: Algorithm/Programmers
+title: '프로그래머스 Level2'
+permalink: Algorithm/Programmers/LV1
 ---
 
 <ul class="posts-list">  

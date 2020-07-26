@@ -14,6 +14,11 @@ author: Haeng
 navbar-links:
   Algorithm: 
     - 프로그래머스: "/Algorithm/Programmers"
+      - LV1: "/Algorithm/Programmers/LV1"
+      - LV2: "/Algorithm/Programmers/LV2"
+      - LV3: "/Algorithm/Programmers/LV3"
+      - LV4: "/Algorithm/Programmers/LV4"
+      - LV5: "/Algorithm/Programmers/LV5"
     - 백준 온라인 저지: "/Algorithm/BOJ"
   Web Development:
     - Spring: "/WebDevelopment/Spring"
