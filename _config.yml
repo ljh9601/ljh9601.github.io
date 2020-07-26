@@ -19,6 +19,8 @@ navbar-links:
     - Spring: "/webdevelopment/spring"
     - NodeJS: "/webdevelopment/nodejs"
 
+
+'''
 # Custom 추가
 subcategories:
   - 프로그래머스: 
@@ -27,7 +29,7 @@ subcategories:
       lv3: "/algorithm/programmers/lv3"
       lv4: "/algorithm/programmers/lv4"
       lv5: "/algorithm/programmers/lv5"
-
+'''
 
 # --- Logo --- #
 
