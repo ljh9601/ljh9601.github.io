@@ -2,7 +2,7 @@
 layout: post
 title: 완주하지 못한 선수 with Python3
 tags: [알고리즘, 프로그래머스]
-category: '프로그래머스'
+category: '프로그래머스 Level1'
 comments: true
 ---
 ## LV1. 완전탐색 - 모의고사
@@ -61,5 +61,5 @@ def solution(answers):
     return sorted(result)
 ```
 
-[모의고사 Github에서 보기](https://raw.githubusercontent.com/ljh9601/BOJ-Programmers/master/Programmers/Lv1/모의고사.py)
+[모의고사 Github에서 보기](https://github.com/ljh9601/BOJ-Programmers/blob/master/Programmers/Lv1/모의고사.py)
 

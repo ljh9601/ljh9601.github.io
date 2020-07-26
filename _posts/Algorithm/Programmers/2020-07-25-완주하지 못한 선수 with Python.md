@@ -2,7 +2,7 @@
 layout: post
 title: 완주하지 못한 선수 with Python3
 tags: [알고리즘, 프로그래머스]
-category: 'LV1'
+category: '프로그래머스 Level1'
 comments: true
 ---
 # 완주하지 못한 선수
