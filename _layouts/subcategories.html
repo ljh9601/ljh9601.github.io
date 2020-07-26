@@ -1,0 +1,9 @@
+<ul class="category-list">
+  {% assign curParent = page.category | default : page.title}
+  <h4> Categories in {{ category }} ({{ site.subcategories[curParent].size }}) </h4>
+  {% for cat in site.subcategories[curParent]}
+    <li>
+      <a class="post-title" href="{{ site.baseurl}} {{cat.url}}"> {{ cat }} </a>
+    </li>
+  {% endfor %}
+</ul>
