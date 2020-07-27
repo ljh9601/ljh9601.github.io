@@ -1,3 +1,10 @@
+---
+layout: post
+title: (LV1) 체육복 with Python3
+tags: [알고리즘, 프로그래머스]
+comments: true
+---
+
 # LV1. 탐욕법 - 체육복
 
 
