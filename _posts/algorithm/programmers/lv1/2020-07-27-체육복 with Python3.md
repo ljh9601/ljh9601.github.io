@@ -1,6 +1,7 @@
 ---
 layout: post
 title: (LV1) 체육복 with Python3
+category: [algorithm, programmers, lv1]
 tags: [알고리즘, 프로그래머스]
 comments: true
 ---
