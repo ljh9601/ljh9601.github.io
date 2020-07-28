@@ -1,16 +1,16 @@
 ---
 layout: post
 title: (LV1) 체육복 with Python3
-category: [algorithm, programmers, lv1]
+categories: [algorithm, programmers, lv1]
 tags: [알고리즘, 프로그래머스]
 comments: true
 ---
 
-# LV1. 탐욕법 - 체육복
+## LV1. 탐욕법 - 체육복
 
 
 
-![](/Users/Janghaeng/Desktop/ljh9601.github.io/assets/img/체육복.png)
+![](/assets/img/체육복.png)
 
 이 문제는 알고리즘 분류에 나와있듯이 Greedy하게, 즉 체육복을 잃어버린 사람에게 빌려주면서 풀면 되는 문제다.<br>
 

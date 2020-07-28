@@ -1,13 +1,13 @@
 ---
 layout: post
 title: (LV1) 완주하지 못한 선수 with Python3
-category: [algorithm, programmers, lv1]
+categories: [algorithm, programmers, lv1]
 tags: [알고리즘, 프로그래머스]
 comments: true
 ---
 # Lv1. 해시 - 완주하지 못한 선수
 
-![](/Users/Janghaeng/Downloads/beautiful-jekyll-master/assets/img/완주하지 못한 선수.png)
+![](/assets/img/완주하지%20못한%20선수.png)
 
 이 문제의 프로그래머스 공식 알고리즘 분류는 "해시"이다. 하지만 해시로 풀 필요가 전혀 없는 문제이다. 그 근거는
 

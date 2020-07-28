@@ -2,14 +2,14 @@
 layout: post
 title: (LV1) 모의고사 with Python3
 tags: [알고리즘, 프로그래머스]
-category: [algorithm, programmers, lv1]
+categories: [algorithm, programmers, lv1]
 comments: true
 ---
 ## LV1. 완전탐색 - 모의고사
 
 
 
-![](/Users/Janghaeng/Desktop/ljh9601.github.io/assets/img/모의고사.png)
+![](/assets/img/모의고사.png)
 
 이 문제를 풀고 난 후 가장 후회했던 점은 굳이 편하게 짤 수 있는 로직을 고민했다는 점이다. 풀고보니 간단명료하게 static한 배열로 푸는 것이 훨씬 편하다고 생각했다.<br><br>
 
