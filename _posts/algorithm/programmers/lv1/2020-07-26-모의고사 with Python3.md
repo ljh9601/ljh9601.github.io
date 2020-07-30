@@ -1,8 +1,8 @@
 ---
 layout: post
 title: (LV1) 모의고사 with Python3
-tags: [알고리즘, 프로그래머스]
-categories: [algorithm, programmers, lv1]
+tags: [알고리즘, 프로그래머스, Lv1]
+categories: [algorithm, programmers, Lv1]
 comments: true
 ---
 ## LV1. 완전탐색 - 모의고사
