@@ -18,6 +18,7 @@ navbar-links:
   Web Development:
     - Spring: "/webdevelopment/spring"
     - NodeJS: "/webdevelopment/nodejs"
+    - Github: "/webdevelopment/github"
 
 
 
