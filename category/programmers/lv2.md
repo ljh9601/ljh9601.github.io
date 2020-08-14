@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Lv1
+title: Lv2
 permalink: algorithm/programmers/lv1
 ---
