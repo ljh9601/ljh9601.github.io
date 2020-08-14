@@ -13,7 +13,7 @@ category: Github
 
 <br>
 
-#### Github의 사용되는 가장 큰 이유 중 하나인 협업을 위한 포스팅을 하려고 한다. Web이나 App 개발을 혼자 하기는 상당히 힘들기 때문에 Git 협업 방식을 반드시 숙지하고 있는 것이 좋다.
+#### Github의 사용되는 가장 큰 이유 중 하나인 협업을 위한 포스팅을 하려고 한다. <br> Web이나 App 개발을 혼자 하기는 상당히 힘들기 때문에 Git 협업 방식을 반드시 숙지하고 있는 것이 좋다.
 
 <br>
 
@@ -53,7 +53,9 @@ category: Github
 
 ### ## Git Repository Local 세팅
 
-##### 필자의 경우 원격 Repo를 Upstream으로 설정해서 하는 편이다. 사실 Upstream은 Fork로 타 Repo를 가져온 후 최신 버전으로 동기화하기 위해 자주 쓰는 Command이니 필자를 따라와도 좋고 안 따라와도 좋다.
+<br>
+
+필자의 경우 원격 Repo를 Upstream으로 설정해서 하는 편이다. 사실 Upstream은 Fork로 타 Repo를 가져온 후 최신 버전으로 동기화하기 위해 자주 쓰는 Command이니 필자를 따라와도 좋고 안 따라와도 좋다.
 
 <br>
 
