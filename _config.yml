@@ -19,6 +19,8 @@ navbar-links:
     - Spring: "/webdevelopment/spring"
     - NodeJS: "/webdevelopment/nodejs"
     - Github: "/webdevelopment/github"
+  Data Analysis:
+    - Big Data: "/dataanalysis/bigdata"
 
 
 
