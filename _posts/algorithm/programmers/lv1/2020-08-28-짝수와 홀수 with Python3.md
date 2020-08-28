@@ -34,4 +34,4 @@ def solution(num):
 
 <br>
 
-[짝수와 홀수 Github에서 보기
+[짝수와 홀수 Github에서 보기](https://github.com/ljh9601/BOJ-Programmers/blob/master/Programmers/Lv1/짝수와%20홀수.py)
