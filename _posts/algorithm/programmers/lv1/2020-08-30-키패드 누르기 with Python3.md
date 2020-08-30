@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (LV1) 키패드 with Python3
+title: (LV1) 키패드 누르기 with Python3
 category: 프로그래머스
 tags: [알고리즘, 프로그래머스, Lv1, 2020카카오인턴십]
 comments: true
@@ -96,3 +96,5 @@ def solution(numbers, hand):
 <br>
 
 [키패드 누르기 Github에서 보기](https://github.com/ljh9601/BOJ-Programmers/blob/master/Programmers/Lv1/키패드%20누르기.py)
+
+<br>
